@@ -13,8 +13,6 @@ body
     background-color: #7c898b;
 }
 
-
-
 #wrapper
 {
 
@@ -28,10 +26,7 @@ body
 
 #foot
 {
-
     color: rgba(13, 21, 27, 0.842);
-    padding-top: 150px;
-    
 }
 
 h1
@@ -70,7 +65,7 @@ p
 {
 
     font-weight: 900;
-    text-align: start;
+    text-align: center;
     line-height: 1.5;
     width: 600px;
     border: solid;
@@ -99,14 +94,6 @@ header
 
 .artleft
 {
-
     text-align: center;
-}
-
-.right
-{
-    padding: 15px;
-    float: right;
-
 }
 
