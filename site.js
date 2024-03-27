@@ -20,3 +20,7 @@ if (isEvening){ //alert('good morning')
     const p = welcome.querySelector('p')
     p.textContent = "Good Evening!"
     }
+
+const message = 'i like pie.'
+localStorage.setItem("It's a secret to everybody.", message)
+
